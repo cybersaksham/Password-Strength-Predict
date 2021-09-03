@@ -1,6 +1,6 @@
 # Password Strength Predictor
 
-This is an ML model whicha analyse some data & predict strenght of passwords.
+This is an ML model whicha analyse some data & predict strength of passwords with 82% accuracy.
 
 # Download Code
 
